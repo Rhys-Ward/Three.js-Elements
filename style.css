@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  overflow: hidden;
+  background: url("https://wallpaperaccess.com/full/1092608.jpg");
+}
+
+.ye{
+  height: 100vh;
+  width: 100vw;
+  border: 3px yellow solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.scene {
+  border: 3px black solid;
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+}
